@@ -21,3 +21,5 @@ console.log(cidade === input); // false
 const inputMinusculo = input.toLowerCase();
 
 console.log(cidade === inputMinusculo); // true
+
+console.log(password.length)

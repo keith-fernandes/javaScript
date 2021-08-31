@@ -22,3 +22,4 @@ const alura = "Alura";
 console.log(alura * firstNum)
 
 
+
