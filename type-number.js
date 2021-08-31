@@ -21,5 +21,5 @@ console.log(newOperation)
 const alura = "Alura"; 
 console.log(alura * firstNum)
 
-console.log(floatingPointNum+floatingPointNoZero)
+
 
