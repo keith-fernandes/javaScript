@@ -7,3 +7,4 @@ const text1 = "alura";
 const text2 = "Alura";
 
 console.log(text1 === text2)
+
