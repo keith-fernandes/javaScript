@@ -25,5 +25,6 @@ let text= "alura";
 console.log(typeof num)
 console.log(typeof text)
 
+
 console.log(typeof myVar)
 console.log(typeof varNull)
